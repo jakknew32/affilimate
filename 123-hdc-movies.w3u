@@ -1,0 +1,416 @@
+{
+  "name": "123-HDC Ad-Free Movies",
+  "author": "123-HDC Reborn",
+  "description": "คลังภาพยนตร์และซีรี่ย์ออนไลน์ ปราศจากโฆษณา ดึงจาก 123-hdc.com",
+  "image": "https://www.123-hdc.com/wp-content/themes/halimmovies_54/assets/images/halimBg.png",
+  "items": [
+    {
+      "name": "Small Town Remedy (2026) วอร์ดรักฮีลใจ",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Small-Town-Remedy-2026-%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%AE%E0%B8%B5%E0%B8%A5%E0%B9%83%E0%B8%88.jpg",
+      "url": "https://www.123-hdc.com/?s=Small%20Town%20Remedy%20(2026)%20%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%AE%E0%B8%B5%E0%B8%A5%E0%B9%83%E0%B8%88",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Salbardi (2026)",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Salbardi-2026-300x450.png",
+      "url": "https://www.123-hdc.com/?s=Salbardi%20(2026)",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Crawlers (2026) ฝูงขยุ้มแมงมุมคลั่ง",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Crawlers-2026-%E0%B8%9D%E0%B8%B9%E0%B8%87%E0%B8%82%E0%B8%A2%E0%B8%B8%E0%B9%89%E0%B8%A1%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%A1%E0%B8%B8%E0%B8%A1%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87-300x450.png",
+      "url": "https://www.123-hdc.com/?s=Crawlers%20(2026)%20%E0%B8%9D%E0%B8%B9%E0%B8%87%E0%B8%82%E0%B8%A2%E0%B8%B8%E0%B9%89%E0%B8%A1%E0%B9%81%E0%B8%A1%E0%B8%87%E0%B8%A1%E0%B8%B8%E0%B8%A1%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%87",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Tony (2026)",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Tony-2026-300x450.png",
+      "url": "https://www.123-hdc.com/?s=Tony%20(2026)",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Khom Khlang (2026) ข่มขลัง (Uncut Ver.)",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/09/Khom-Khlang-2026-%E0%B8%82%E0%B9%88%E0%B8%A1%E0%B8%82%E0%B8%A5%E0%B8%B1%E0%B8%87-Uncut-Ver-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=Khom%20Khlang%20(2026)%20%E0%B8%82%E0%B9%88%E0%B8%A1%E0%B8%82%E0%B8%A5%E0%B8%B1%E0%B8%87%20(Uncut%20Ver.)",
+      "info": "หมวด: UNCUT | ปี: 2026"
+    },
+    {
+      "name": "Love on the Menu (2026) รักมาแล้ว",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/08/Love-on-the-Menu-2026-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A1%E0%B8%B2%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=Love%20on%20the%20Menu%20(2026)%20%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A1%E0%B8%B2%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Where the Mask Ends (2026) ปลดหน้ากาก",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Where-the-Mask-Ends-2026-%E0%B8%9B%E0%B8%A5%E0%B8%94%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%81-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=Where%20the%20Mask%20Ends%20(2026)%20%E0%B8%9B%E0%B8%A5%E0%B8%94%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%81",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Too Young To Love (2026) ชายกระโปรงในวันวาน",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/02/Too-Young-To-Love-2026-%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B8%87%E0%B9%83%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B2%E0%B8%99.jpg",
+      "url": "https://www.123-hdc.com/?s=Too%20Young%20To%20Love%20(2026)%20%E0%B8%8A%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B8%87%E0%B9%83%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A7%E0%B8%B2%E0%B8%99",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Final Table (2026) สงครามนักปรุง",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Final-Table-2026-%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=Final%20Table%20(2026)%20%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Oh My Guard (2026) นี่ฉันอยากมีบอดี้การ์ดหรือนี่",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Oh-My-Guard-2026-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=Oh%20My%20Guard%20(2026)%20%E0%B8%99%E0%B8%B5%E0%B9%88%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A1%E0%B8%B5%E0%B8%9A%E0%B8%AD%E0%B8%94%E0%B8%B5%E0%B9%89%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%B5%E0%B9%88",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Dive into You (2026) ดิ่งลึกสู่ใจเธอ",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/09/Dive-into-You-2026-%E0%B8%94%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B9%83%E0%B8%88%E0%B9%80%E0%B8%98%E0%B8%AD-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=Dive%20into%20You%20(2026)%20%E0%B8%94%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B9%83%E0%B8%88%E0%B9%80%E0%B8%98%E0%B8%AD",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "A Love Other Than Yours (2026) เมื่อหัวใจมีใครอีกคน",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/09/A-Love-Other-Than-Yours-2026-%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%E0%B8%A1%E0%B8%B5%E0%B9%83%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%B5%E0%B8%81%E0%B8%84%E0%B8%99-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=A%20Love%20Other%20Than%20Yours%20(2026)%20%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%88%E0%B8%A1%E0%B8%B5%E0%B9%83%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%B5%E0%B8%81%E0%B8%84%E0%B8%99",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "100 Days of Deception (2026) 100 วันปฏิบัติการลวง",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/100-Days-of-Deception-2026-100-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B8%A7%E0%B8%87-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=100%20Days%20of%20Deception%20(2026)%20100%20%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B8%A7%E0%B8%87",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "The Perfect Lie (2026) รักซ่อนลวง",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Perfect-Lie-2026-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%A7%E0%B8%87-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=The%20Perfect%20Lie%20(2026)%20%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%A7%E0%B8%87",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Doctor X: Mafia in White (2026) ด็อกเตอร์เอ็กซ์",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Doctor-X-Mafia-in-White-2026-%E0%B8%94%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B9%8C-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=Doctor%20X%3A%20Mafia%20in%20White%20(2026)%20%E0%B8%94%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B9%8C",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Dead-End Job (2026) งานสนุก จะตาย",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Dead-End-Job-2026-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%99%E0%B8%B8%E0%B8%81-%E0%B8%88%E0%B8%B0%E0%B8%95%E0%B8%B2%E0%B8%A2-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=Dead-End%20Job%20(2026)%20%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%99%E0%B8%B8%E0%B8%81%20%E0%B8%88%E0%B8%B0%E0%B8%95%E0%B8%B2%E0%B8%A2",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "The Sound of Sugar Cubes (2026) เสียงรักรสหวาน",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Sound-of-Sugar-Cubes-2026-%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%AA%E0%B8%AB%E0%B8%A7%E0%B8%B2%E0%B8%99-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=The%20Sound%20of%20Sugar%20Cubes%20(2026)%20%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%AA%E0%B8%AB%E0%B8%A7%E0%B8%B2%E0%B8%99",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Twisted Tie (2026)",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Twisted-Tie-2026.jpg",
+      "url": "https://www.123-hdc.com/?s=Twisted%20Tie%20(2026)",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Make Me Tingle (2026)",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Make-Me-Tingle-2026-1-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=Make%20Me%20Tingle%20(2026)",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Tigers Sniff the Rose (2026) พยัคฆ์หลงกลิ่นบุปผา",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Tigers-Sniff-the-Rose-2026-%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%AB%E0%B8%A5%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%9B%E0%B8%9C%E0%B8%B2-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=Tigers%20Sniff%20the%20Rose%20(2026)%20%E0%B8%9E%E0%B8%A2%E0%B8%B1%E0%B8%84%E0%B8%86%E0%B9%8C%E0%B8%AB%E0%B8%A5%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%9B%E0%B8%9C%E0%B8%B2",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Against The Current (2026) หอมรักมิรู้เลือน",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/09/Against-The-Current-2026-%E0%B8%AB%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A1%E0%B8%B4%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%99-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=Against%20The%20Current%20(2026)%20%E0%B8%AB%E0%B8%AD%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A1%E0%B8%B4%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%99",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Tamed (2026) กฎเหล็กล่ามรัก",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Tamed-2026-%E0%B8%81%E0%B8%8E%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=Tamed%20(2026)%20%E0%B8%81%E0%B8%8E%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "When the Lights Rise (2026) เพลิงแค้นดับทมิฬ",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/When-the-Lights-Rise-2026-%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%87%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B8%A1%E0%B8%B4%E0%B8%AC-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=When%20the%20Lights%20Rise%20(2026)%20%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%87%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B8%A1%E0%B8%B4%E0%B8%AC",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Besties’ Coming Fortune (2026) คู่ซี้ทะลุมิติป่วนจวน",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Besties-Coming-Fortune-2026-%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%8B%E0%B8%B5%E0%B9%89%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%88%E0%B8%A7%E0%B8%99-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=Besties%E2%80%99%20Coming%20Fortune%20(2026)%20%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%8B%E0%B8%B5%E0%B9%89%E0%B8%97%E0%B8%B0%E0%B8%A5%E0%B8%B8%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%9B%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%88%E0%B8%A7%E0%B8%99",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Dear Song (2026) เกมแค้นลวงรัก",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Dear-Song-2026-%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=Dear%20Song%20(2026)%20%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "My Loong (2026) คำสาปรักมังกร",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/My-Loong-2026-%E0%B8%84%E0%B8%B3%E0%B8%AA%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=My%20Loong%20(2026)%20%E0%B8%84%E0%B8%B3%E0%B8%AA%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Bionic Trace (2026) พลิกแผนล่าท้าทรชน",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Bionic-Trace-EP-2026-%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%A3%E0%B8%8A%E0%B8%99-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=Bionic%20Trace%20(2026)%20%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%A3%E0%B8%8A%E0%B8%99",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "You Alone Know Me (2026) ฝันรักในเหมันต์",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/You-Alone-Know-Me-2026-%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%83%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=You%20Alone%20Know%20Me%20(2026)%20%E0%B8%9D%E0%B8%B1%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%83%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Mobland Season 2 (2026) ม็อบแลนด์ ซีซั่น 2",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/09/Mobland-Season-2-2026-%E0%B8%A1%E0%B9%87%E0%B8%AD%E0%B8%9A%E0%B9%81%E0%B8%A5%E0%B8%99%E0%B8%94%E0%B9%8C-%E0%B8%8B%E0%B8%B5%E0%B8%8B%E0%B8%B1%E0%B9%88%E0%B8%99-2-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=Mobland%20Season%202%20(2026)%20%E0%B8%A1%E0%B9%87%E0%B8%AD%E0%B8%9A%E0%B9%81%E0%B8%A5%E0%B8%99%E0%B8%94%E0%B9%8C%20%E0%B8%8B%E0%B8%B5%E0%B8%8B%E0%B8%B1%E0%B9%88%E0%B8%99%202",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "War (2026)",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/War-2026-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=War%20(2026)",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "VISIONQUEST (2026) วิกฤตวิชั่น",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/VISIONQUEST-2026-%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=VISIONQUEST%20(2026)%20%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Lupin Season 4 (2026) จอมโจรลูแปง ซีซั่น 4",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Lupin-Season-4-2026-%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%A5%E0%B8%B9%E0%B9%81%E0%B8%9B%E0%B8%87-%E0%B8%8B%E0%B8%B5%E0%B8%8B%E0%B8%B1%E0%B9%88%E0%B8%99-4-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=Lupin%20Season%204%20(2026)%20%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%82%E0%B8%88%E0%B8%A3%E0%B8%A5%E0%B8%B9%E0%B9%81%E0%B8%9B%E0%B8%87%20%E0%B8%8B%E0%B8%B5%E0%B8%8B%E0%B8%B1%E0%B9%88%E0%B8%99%204",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "The Terminal List Season 2 (2026) เดอะ เทอร์มินอล ลิสต์ ดับมือสังหาร ซีซั่น 2",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Terminal-List-Season-2-2026-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0-%E0%B9%80%E0%B8%97%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%AD%E0%B8%A5-%E0%B8%A5%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B9%8C-%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%A3-%E0%B8%8B%E0%B8%B5%E0%B8%8B%E0%B8%B1%E0%B9%88%E0%B8%99-2-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=The%20Terminal%20List%20Season%202%20(2026)%20%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%20%E0%B9%80%E0%B8%97%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%AD%E0%B8%A5%20%E0%B8%A5%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B9%8C%20%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%A3%20%E0%B8%8B%E0%B8%B5%E0%B8%8B%E0%B8%B1%E0%B9%88%E0%B8%99%202",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Money Trap: The Karun Treasure (2026) ซวยติดจรวด: กับดักเงินล้าน",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Money-Trap-The-Karun-Treasure-2026-%E0%B8%8B%E0%B8%A7%E0%B8%A2%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%88%E0%B8%A3%E0%B8%A7%E0%B8%94-%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%94%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=Money%20Trap%3A%20The%20Karun%20Treasure%20(2026)%20%E0%B8%8B%E0%B8%A7%E0%B8%A2%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%88%E0%B8%A3%E0%B8%A7%E0%B8%94%3A%20%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%94%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "The Trap (2026) กับดัก",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Trap-2026-%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%94%E0%B8%B1%E0%B8%81-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=The%20Trap%20(2026)%20%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%94%E0%B8%B1%E0%B8%81",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Carrie (2026) แครี่ สาวสยอง",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Carrie-2026-%E0%B9%81%E0%B8%84%E0%B8%A3%E0%B8%B5%E0%B9%88-%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=Carrie%20(2026)%20%E0%B9%81%E0%B8%84%E0%B8%A3%E0%B8%B5%E0%B9%88%20%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Below (2026) มันซ่อนอยู่ใต้น้ำลึก",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Below-2026-%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B9%83%E0%B8%95%E0%B9%89%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%A5%E0%B8%B6%E0%B8%81-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=Below%20(2026)%20%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%8B%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B9%83%E0%B8%95%E0%B9%89%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%A5%E0%B8%B6%E0%B8%81",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Lanterns (2026)",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/08/Lanterns-2026-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=Lanterns%20(2026)",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "East of Eden (2026) อีสต์ ออฟ อีเดน",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/East-of-Eden-2026-%E0%B8%AD%E0%B8%B5%E0%B8%AA%E0%B8%95%E0%B9%8C-%E0%B8%AD%E0%B8%AD%E0%B8%9F-%E0%B8%AD%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%99-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=East%20of%20Eden%20(2026)%20%E0%B8%AD%E0%B8%B5%E0%B8%AA%E0%B8%95%E0%B9%8C%20%E0%B8%AD%E0%B8%AD%E0%B8%9F%20%E0%B8%AD%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%99",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Minerva Academy (2026) มิเนอร์วา อคาเดมี่",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/09/Minerva-Academy-2026-%E0%B8%A1%E0%B8%B4%E0%B9%80%E0%B8%99%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A7%E0%B8%B2-%E0%B8%AD%E0%B8%84%E0%B8%B2%E0%B9%80%E0%B8%94%E0%B8%A1%E0%B8%B5%E0%B9%88-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=Minerva%20Academy%20(2026)%20%E0%B8%A1%E0%B8%B4%E0%B9%80%E0%B8%99%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A7%E0%B8%B2%20%E0%B8%AD%E0%B8%84%E0%B8%B2%E0%B9%80%E0%B8%94%E0%B8%A1%E0%B8%B5%E0%B9%88",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Shadows of the Ten Ninja (2026) สิบผู้กล้าซานาดะ เงานินจา",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Shadows-of-the-Ten-Ninja-2026-%E0%B8%AA%E0%B8%B4%E0%B8%9A%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%8B%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B8%B0-%E0%B9%80%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%99%E0%B8%88%E0%B8%B2-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=Shadows%20of%20the%20Ten%20Ninja%20(2026)%20%E0%B8%AA%E0%B8%B4%E0%B8%9A%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%8B%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B8%B0%20%E0%B9%80%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%99%E0%B8%88%E0%B8%B2",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Strange: Junji Itos Tales for Sleepless Nights (2026)",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Strange-Junji-Itos-Tales-for-Sleepless-Nights-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=Strange%3A%20Junji%20Itos%20Tales%20for%20Sleepless%20Nights%20(2026)",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Merry Berry Love (2026)",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Merry-Berry-Love-2026-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=Merry%20Berry%20Love%20(2026)",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "kiDnap GAME (2026)",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/kiDnap-GAME-2026-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=kiDnap%20GAME%20(2026)",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Extraordinary Attorney Minami (2026) มินามิ ทนายอัจฉริยะ",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Extraordinary-Attorney-Minami-2026-%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%B4-%E0%B8%97%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B0-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=Extraordinary%20Attorney%20Minami%20(2026)%20%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%B4%20%E0%B8%97%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%AD%E0%B8%B1%E0%B8%88%E0%B8%89%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B0",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Your Sky Hare No Chi Koi (2026) พยากรณ์ว่ารัก",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/09/Your-Sky-Hare-No-Chi-Koi-2026-%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=Your%20Sky%20Hare%20No%20Chi%20Koi%20(2026)%20%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Plastic Beauty (2026) สวยพลาสติก",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/09/Plastic-Beauty-2026-%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%9E%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%81-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=Plastic%20Beauty%20(2026)%20%E0%B8%AA%E0%B8%A7%E0%B8%A2%E0%B8%9E%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%B4%E0%B8%81",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "S&X (2026)",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/08/SX-2026-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=S%26X%20(2026)",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Are the Sexy Buttocks Not Good? (2026) บั้นท้ายเซ็กซี่ไม่ดีเหรอครับ?",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/07/Are-the-Sexy-Buttocks-Not-Good-2026-%E0%B8%9A%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%8B%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B8%B5%E0%B9%88%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%94%E0%B8%B5%E0%B9%80%E0%B8%AB%E0%B8%A3%E0%B8%AD%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%9A-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=Are%20the%20Sexy%20Buttocks%20Not%20Good%3F%20(2026)%20%E0%B8%9A%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%8B%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B8%B5%E0%B9%88%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%94%E0%B8%B5%E0%B9%80%E0%B8%AB%E0%B8%A3%E0%B8%AD%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%9A%3F",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "The Servant Prince (2026) สยบรักเจ้าชาย กลายเป็นทาส",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/08/The-Servant-Prince-2026-%E0%B8%AA%E0%B8%A2%E0%B8%9A%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B8%A2-%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%AA-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=The%20Servant%20Prince%20(2026)%20%E0%B8%AA%E0%B8%A2%E0%B8%9A%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B8%A2%20%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%AA",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Human Vapor (2026) มนุษย์ก๊าซ",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/07/Human-Vapor-2026-%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%81%E0%B9%8A%E0%B8%B2%E0%B8%8B-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=Human%20Vapor%20(2026)%20%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B8%81%E0%B9%8A%E0%B8%B2%E0%B8%8B",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Song of the Samurai (2026) บทเพลงแห่งซามูไร",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/05/Song-of-the-Samurai-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=Song%20of%20the%20Samurai%20(2026)%20%E0%B8%9A%E0%B8%97%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8B%E0%B8%B2%E0%B8%A1%E0%B8%B9%E0%B9%84%E0%B8%A3",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Fairway of Love (2026) รักออกรอบ",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Fairway-of-Love-2026-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%9A-1-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=Fairway%20of%20Love%20(2026)%20%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%9A",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "LOVEx3 (2026) หลักสูตรรักภาคบังคับ",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/08/LOVEx3-2026-%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B9%E0%B8%95%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%9A%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%B1%E0%B8%9A-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=LOVEx3%20(2026)%20%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B9%E0%B8%95%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%9A%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%B1%E0%B8%9A",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Good Boy Series (2026) จิรภัทรจะเป็นเด็กดี",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Good-Boy-Series-2026-%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%88%E0%B8%B0%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81%E0%B8%94%E0%B8%B5-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=Good%20Boy%20Series%20(2026)%20%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%88%E0%B8%B0%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81%E0%B8%94%E0%B8%B5",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Fool in Love (2026) คนโง่รักเข(ล)า",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Fool-in-Love-2026-%E0%B8%84%E0%B8%99%E0%B9%82%E0%B8%87%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%82%E0%B8%A5%E0%B8%B2-1-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=Fool%20in%20Love%20(2026)%20%E0%B8%84%E0%B8%99%E0%B9%82%E0%B8%87%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%82(%E0%B8%A5)%E0%B8%B2",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Mr.Fanboy (2026) รักสุดใจนายแฟนบอย",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/08/Mr.Fanboy-2026-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B9%83%E0%B8%88%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B9%81%E0%B8%9F%E0%B8%99%E0%B8%9A%E0%B8%AD%E0%B8%A2-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=Mr.Fanboy%20(2026)%20%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B9%83%E0%B8%88%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B9%81%E0%B8%9F%E0%B8%99%E0%B8%9A%E0%B8%AD%E0%B8%A2",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "You Me Us (2026) เธอ ฉัน และเรา",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/You-Me-Us-2026-%E0%B9%80%E0%B8%98%E0%B8%AD-%E0%B8%89%E0%B8%B1%E0%B8%99-%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%A3%E0%B8%B2-300x450.png",
+      "url": "https://www.123-hdc.com/?s=You%20Me%20Us%20(2026)%20%E0%B9%80%E0%B8%98%E0%B8%AD%20%E0%B8%89%E0%B8%B1%E0%B8%99%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%A3%E0%B8%B2",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "A Story of Derry (2026)",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/11/Welcome-to-Derry-300x450.png",
+      "url": "https://www.123-hdc.com/?s=A%20Story%20of%20Derry%20(2026)",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Abigail (2024)",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2024/05/Abigail-2024-1-300x450.jpg",
+      "url": "https://www.123-hdc.com/?s=Abigail%20(2024)",
+      "info": "หมวด: 2024 | ปี: 2024"
+    },
+    {
+      "name": "Reporting Live (2026) รายงานสด",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Reporting-Live-2026-%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%94-300x450.png",
+      "url": "https://www.123-hdc.com/?s=Reporting%20Live%20(2026)%20%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%94",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Coyote vs Acme (2026) โคโยตี้ ปะทะ แอคมี่",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Coyote-vs-Acme-2026-%E0%B9%82%E0%B8%84%E0%B9%82%E0%B8%A2%E0%B8%95%E0%B8%B5%E0%B9%89-%E0%B8%9B%E0%B8%B0%E0%B8%97%E0%B8%B0-%E0%B9%81%E0%B8%AD%E0%B8%84%E0%B8%A1%E0%B8%B5%E0%B9%88-300x450.png",
+      "url": "https://www.123-hdc.com/?s=Coyote%20vs%20Acme%20(2026)%20%E0%B9%82%E0%B8%84%E0%B9%82%E0%B8%A2%E0%B8%95%E0%B8%B5%E0%B9%89%20%E0%B8%9B%E0%B8%B0%E0%B8%97%E0%B8%B0%20%E0%B9%81%E0%B8%AD%E0%B8%84%E0%B8%A1%E0%B8%B5%E0%B9%88",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Your Letter (2024) จดหมายของยอน",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Your-Letter-2024-%E0%B8%88%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%A2%E0%B8%AD%E0%B8%99-300x450.png",
+      "url": "https://www.123-hdc.com/?s=Your%20Letter%20(2024)%20%E0%B8%88%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%A2%E0%B8%AD%E0%B8%99",
+      "info": "หมวด: 2024 | ปี: 2024"
+    },
+    {
+      "name": "Detective Conan The Counterfeit Case of Ultra 30 (2026) ยอดนักสืบจิ๋วโคนัน คดีฆาตกรรมหมายเลข 30",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Detective-Conan-The-Counterfeit-Case-of-Ultra-30-2026-%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%88%E0%B8%B4%E0%B9%8B%E0%B8%A7%E0%B9%82%E0%B8%84%E0%B8%99%E0%B8%B1%E0%B8%99-%E0%B8%84%E0%B8%94%E0%B8%B5%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%A5%E0%B8%82-30-300x450.png",
+      "url": "https://www.123-hdc.com/?s=Detective%20Conan%20The%20Counterfeit%20Case%20of%20Ultra%2030%20(2026)%20%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%88%E0%B8%B4%E0%B9%8B%E0%B8%A7%E0%B9%82%E0%B8%84%E0%B8%99%E0%B8%B1%E0%B8%99%20%E0%B8%84%E0%B8%94%E0%B8%B5%E0%B8%86%E0%B8%B2%E0%B8%95%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%A5%E0%B8%82%2030",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Hot Wheels Let's Race Attack of the T-Rex (2026) ซิ่งสุดใจให้ถึงฝัน! ทีเร็กซ์บุก",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Hot-Wheels-Lets-Race-Attack-of-the-T-Rex-2026-%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B9%83%E0%B8%88%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%9D%E0%B8%B1%E0%B8%99-%E0%B8%97%E0%B8%B5%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B9%8C%E0%B8%9A%E0%B8%B8%E0%B8%81-1-300x450.png",
+      "url": "https://www.123-hdc.com/?s=Hot%20Wheels%20Let's%20Race%20Attack%20of%20the%20T-Rex%20(2026)%20%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B9%83%E0%B8%88%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%9D%E0%B8%B1%E0%B8%99!%20%E0%B8%97%E0%B8%B5%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B9%8C%E0%B8%9A%E0%B8%B8%E0%B8%81",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "The Charming Beast Tamer (2026) นักฝึกอสูรเสน่ห์ล้น",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/The-Charming-Beast-Tamer-2026-%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9D%E0%B8%B6%E0%B8%81%E0%B8%AD%E0%B8%AA%E0%B8%B9%E0%B8%A3%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B9%88%E0%B8%AB%E0%B9%8C%E0%B8%A5%E0%B9%89%E0%B8%99-300x450.png",
+      "url": "https://www.123-hdc.com/?s=The%20Charming%20Beast%20Tamer%20(2026)%20%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9D%E0%B8%B6%E0%B8%81%E0%B8%AD%E0%B8%AA%E0%B8%B9%E0%B8%A3%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B9%88%E0%B8%AB%E0%B9%8C%E0%B8%A5%E0%B9%89%E0%B8%99",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Renegade Immortal Slaying the Blood Progenitor (2026) ฝืนลิขิตฟ้าข้าขอเป็นเซียน เดอะมูฟวี่ ศึกสังหารเซียน",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Renegade-Immortal-Slaying-the-Blood-Progenitor-2026-%E0%B8%9D%E0%B8%B7%E0%B8%99%E0%B8%A5%E0%B8%B4%E0%B8%82%E0%B8%B4%E0%B8%95%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88-%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%99-300x450.png",
+      "url": "https://www.123-hdc.com/?s=Renegade%20Immortal%20Slaying%20the%20Blood%20Progenitor%20(2026)%20%E0%B8%9D%E0%B8%B7%E0%B8%99%E0%B8%A5%E0%B8%B4%E0%B8%82%E0%B8%B4%E0%B8%95%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%99%20%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88%20%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%99",
+      "info": "หมวด: 2026 | ปี: 2026"
+    },
+    {
+      "name": "Renegade Immortal Divine Descent (2025) ฝืนลิขิตฟ้าข้าขอเป็นเซียน มหาศึกสงครามเทพ",
+      "image": "https://www.123-hdc.com/wp-content/uploads/2026/10/Renegade-Immortal-Divine-Descent-2025-%E0%B8%9D%E0%B8%B7%E0%B8%99%E0%B8%A5%E0%B8%B4%E0%B8%82%E0%B8%B4%E0%B8%95%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%97%E0%B8%9E-300x450.png",
+      "url": "https://www.123-hdc.com/?s=Renegade%20Immortal%20Divine%20Descent%20(2025)%20%E0%B8%9D%E0%B8%B7%E0%B8%99%E0%B8%A5%E0%B8%B4%E0%B8%82%E0%B8%B4%E0%B8%95%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B8%AD%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%99%20%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%97%E0%B8%9E",
+      "info": "หมวด: 2025 | ปี: 2025"
+    }
+  ]
+}
